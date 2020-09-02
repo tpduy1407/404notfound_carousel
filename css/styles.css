@@ -1,0 +1,14 @@
+.btn i {
+  height: 34px;
+  width: 46px;
+  background: antiquewhite;
+  color: aliceblue;
+  font-size: 30px;
+}
+.btn i:hover {
+  background-color: hotpink;
+  color: #333333;
+}
+.slider_img{
+    display: none;
+}
